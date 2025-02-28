@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     },
     caja1: {
 
-        borderWidth: 5,
+        borderWidth: 6,
         borderColor: 'white',
         width: 100,
         height: 100,
